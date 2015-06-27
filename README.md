@@ -8,9 +8,7 @@ After starting your OpenELEC unVM, you can access your media by adding files, se
 
  - PCIe GPU from either AMD or nVIDIA (others may work, but no support for on-board graphics)
 
- - Must be running unRAID 6 beta 10a or later
-
- - Must add pcie_acs_overide=downstream to append line in syslinux.cfg
+ - Must be running unRAID 6.0.1 or later
 
 ####unVM Requirements####
  - 300MB of free disk space
